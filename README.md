@@ -10,6 +10,6 @@
 
 ```nano proxy.txt```
 
-```python main.py```
+```python main.py``` (without proxy)
 
-```python mainproxy.py```
+```python mainproxy.py``` (with proxy)
